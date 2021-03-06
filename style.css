@@ -8,3 +8,8 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+h2, p { color: white;
+}
+a { color: yellow;
+}
